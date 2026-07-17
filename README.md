@@ -10,19 +10,3 @@ My goal is to grow from a legacy system developer into a modern Enterprise IT pr
 - Enterprise architecture
 
 This repository documents my learning journey, practical exercises, architecture studies, and side projects.
-│
-├── 📍 Dashboard
-│
-├── 🧠 Knowledge Map
-│
-├── 📚 Weekly Lessons
-│
-├── 💻 Exercises
-│
-├── 🏗 Mini Projects
-│
-├── 🚀 Enterprise Projects
-│
-├── 📖 Engineering Notes
-│
-└── 🎯 Career Progress
