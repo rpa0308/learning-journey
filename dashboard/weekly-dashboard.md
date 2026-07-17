@@ -1,4 +1,4 @@
-# Phoenix Dashboard
+# Learning Dashboard
 
 ## Current Phase
 
